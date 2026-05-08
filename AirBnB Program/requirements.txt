@@ -3,5 +3,5 @@ pandas
 joblib
 numpy
 pillow
-fpdf
+fpdf2
 scikit-learn
